@@ -1,0 +1,17 @@
+# Systèmes
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs / divers
+*.log
+node_modules/
+
+# Rien de personnel n'est ignoré ici : le contenu du quiz vit dans index.html,
+# qui DOIT être publié pour que la page fonctionne.
